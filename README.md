@@ -1,4 +1,4 @@
-# CACR-CVPR2026
+# CACR: Conflict-Aware Adaptive Cross-Reconstruction for Multimodal Sentiment Analysis
 Official PyTorch implementation of Conflict-Aware Adaptive Cross-Reconstruction for Multimodal Sentiment Analysis, published at CVPR 2026.
 
 ## Framework
