@@ -1,0 +1,16 @@
+# Datasets
+dataset/
+*.pkl
+
+# Training logs and results
+log/
+result/
+
+# Model checkpoints
+pt/
+*.pth
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
