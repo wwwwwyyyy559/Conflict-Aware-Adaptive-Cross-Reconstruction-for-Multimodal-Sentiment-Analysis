@@ -55,10 +55,9 @@ pip install -r requirements.txt
 The main dependencies include:
 
 ```text
-Python
-PyTorch
-NumPy
-scikit-learn
+Python 3.9.13
+PyTorch 2.0.0
+CUDA 12.0
 ```
 
 The exact package versions used in the experiments should be listed in `requirements.txt`.
@@ -79,24 +78,15 @@ dataset_name = "mosei"
 
 Then run:
 
-```bash
-python train.py
 ```
-
-Alternatively, depending on your environment, use:
-
-```bash
 python3 train.py
 ```
 
 By default, the trained model checkpoints are saved in:
 
-```text
+```
 ./pt
 ```
-
-The checkpoint directory and other training configurations can be modified in `train.py` or the corresponding configuration file.
-
 
 
 ## Citation
