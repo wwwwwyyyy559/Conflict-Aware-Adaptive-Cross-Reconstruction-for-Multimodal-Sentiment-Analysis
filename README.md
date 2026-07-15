@@ -1,5 +1,5 @@
 # CACR-CVPR2026
-The code for Conflict-Aware Adaptive Cross-Reconstruction for Multimodal Sentiment Analysis, which is accepted by CVPR 2026.
+Official PyTorch implementation of Conflict-Aware Adaptive Cross-Reconstruction for Multimodal Sentiment Analysis, published at CVPR 2026.
 
 ## Framework
 
@@ -10,7 +10,7 @@ The code for Conflict-Aware Adaptive Cross-Reconstruction for Multimodal Sentime
 
 ## Datasets
 
-Experiments are conducted on the following public multimodal sentiment analysis datasets:
+This repository currently provides processed features and training instructions for CMU-MOSI and CMU-MOSEI:
 
 * [CMU-MOSI](http://multicomp.cs.cmu.edu/resources/cmu-mosi-dataset/)
 * [CMU-MOSEI](http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/)
@@ -56,8 +56,8 @@ The main dependencies include:
 
 ```text
 Python 3.9.13
-PyTorch 2.0.0
-CUDA 12.0
+PyTorch 2.8.0
+CUDA 12.8
 ```
 
 The exact package versions used in the experiments should be listed in `requirements.txt`.
