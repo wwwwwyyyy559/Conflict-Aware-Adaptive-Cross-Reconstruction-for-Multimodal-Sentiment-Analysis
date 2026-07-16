@@ -56,8 +56,8 @@ The main dependencies include:
 
 ```text
 Python 3.9.13
-PyTorch 2.8.0
-CUDA 12.8
+PyTorch 2.0.0
+CUDA 11.8
 ```
 
 The exact package versions used in the experiments should be listed in `requirements.txt`.
