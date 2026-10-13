@@ -1,0 +1,101 @@
+2025-10-17 17:25:57,698 - MMSA [INFO] - train samples: (1284,)
+2025-10-17 17:25:57,779 - MMSA [INFO] - valid samples: (229,)
+2025-10-17 17:25:57,860 - MMSA [INFO] - test samples: (686,)
+2025-10-17 17:26:30,200 - MMSA [INFO] - >> Epoch: 1 TRAIN -(CACR) [1/1/1] >> total_loss: 11.8641  Mult_acc_7: 0.1908  Mult_acc_5: 0.1908  Acc_2: 0.5516  F1_score: 0.3922  Corr: -0.0331  MAE: 1.3253 
+2025-10-17 17:26:33,106 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.2140  Mult_acc_5: 0.2140  Acc_2: 0.5741  F1_score: 0.4187  Corr: 0.1375  MAE: 1.4106  Loss: 1.3910 
+2025-10-17 17:26:40,010 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.1545  Mult_acc_5: 0.1545  Acc_2: 0.4223  F1_score: 0.2507  Corr: 0.1098  MAE: 1.5007  Loss: 1.5030 
+2025-10-17 17:27:08,503 - MMSA [INFO] - >> Epoch: 2 TRAIN -(CACR) [1/2/1] >> total_loss: 11.2838  Mult_acc_7: 0.1994  Mult_acc_5: 0.1994  Acc_2: 0.5516  F1_score: 0.3922  Corr: 0.0076  MAE: 1.3198 
+2025-10-17 17:27:11,407 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.2140  Mult_acc_5: 0.2140  Acc_2: 0.5741  F1_score: 0.4187  Corr: 0.2548  MAE: 1.4120  Loss: 1.4290 
+2025-10-17 17:27:17,805 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.1545  Mult_acc_5: 0.1545  Acc_2: 0.4223  F1_score: 0.2507  Corr: 0.1906  MAE: 1.4710  Loss: 1.4708 
+2025-10-17 17:27:46,187 - MMSA [INFO] - >> Epoch: 3 TRAIN -(CACR) [2/3/1] >> total_loss: 10.5234  Mult_acc_7: 0.1931  Mult_acc_5: 0.1931  Acc_2: 0.5516  F1_score: 0.3922  Corr: 0.0389  MAE: 1.3152 
+2025-10-17 17:27:49,509 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.2140  Mult_acc_5: 0.2140  Acc_2: 0.5741  F1_score: 0.4187  Corr: 0.4444  MAE: 1.4057  Loss: 1.4136 
+2025-10-17 17:27:56,313 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.1545  Mult_acc_5: 0.1545  Acc_2: 0.4223  F1_score: 0.2507  Corr: 0.4222  MAE: 1.4521  Loss: 1.4574 
+2025-10-17 17:28:25,104 - MMSA [INFO] - >> Epoch: 4 TRAIN -(CACR) [3/4/1] >> total_loss: 9.7661  Mult_acc_7: 0.1931  Mult_acc_5: 0.1931  Acc_2: 0.5508  F1_score: 0.3947  Corr: 0.1710  MAE: 1.3064 
+2025-10-17 17:28:28,109 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.2140  Mult_acc_5: 0.2140  Acc_2: 0.5741  F1_score: 0.4187  Corr: 0.5548  MAE: 1.3922  Loss: 1.3765 
+2025-10-17 17:28:35,520 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.1545  Mult_acc_5: 0.1545  Acc_2: 0.4223  F1_score: 0.2507  Corr: 0.5860  MAE: 1.4294  Loss: 1.4262 
+2025-10-17 17:29:04,901 - MMSA [INFO] - >> Epoch: 5 TRAIN -(CACR) [1/5/1] >> total_loss: 8.8813  Mult_acc_7: 0.1939  Mult_acc_5: 0.1939  Acc_2: 0.5573  F1_score: 0.4117  Corr: 0.3622  MAE: 1.2867 
+2025-10-17 17:29:08,009 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.2140  Mult_acc_5: 0.2140  Acc_2: 0.5741  F1_score: 0.4187  Corr: 0.6734  MAE: 1.3448  Loss: 1.3507 
+2025-10-17 17:29:14,598 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.1545  Mult_acc_5: 0.1545  Acc_2: 0.4223  F1_score: 0.2507  Corr: 0.6781  MAE: 1.3980  Loss: 1.4047 
+2025-10-17 17:29:44,234 - MMSA [INFO] - >> Epoch: 6 TRAIN -(CACR) [1/6/1] >> total_loss: 8.4984  Mult_acc_7: 0.1939  Mult_acc_5: 0.1939  Acc_2: 0.5751  F1_score: 0.4466  Corr: 0.5829  MAE: 1.2563 
+2025-10-17 17:29:47,303 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.2140  Mult_acc_5: 0.2140  Acc_2: 0.5741  F1_score: 0.4269  Corr: 0.6724  MAE: 1.3174  Loss: 1.3326 
+2025-10-17 17:29:54,009 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.1545  Mult_acc_5: 0.1545  Acc_2: 0.4253  F1_score: 0.2573  Corr: 0.7143  MAE: 1.3577  Loss: 1.3575 
+2025-10-17 17:30:23,607 - MMSA [INFO] - >> Epoch: 7 TRAIN -(CACR) [1/7/1] >> total_loss: 7.8579  Mult_acc_7: 0.1947  Mult_acc_5: 0.1947  Acc_2: 0.5930  F1_score: 0.4881  Corr: 0.6754  MAE: 1.2285 
+2025-10-17 17:30:26,701 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.2140  Mult_acc_5: 0.2140  Acc_2: 0.6620  F1_score: 0.6083  Corr: 0.6851  MAE: 1.2756  Loss: 1.2778 
+2025-10-17 17:30:33,511 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.1603  Mult_acc_5: 0.1603  Acc_2: 0.5595  F1_score: 0.5049  Corr: 0.7103  MAE: 1.3327  Loss: 1.3347 
+2025-10-17 17:31:02,817 - MMSA [INFO] - >> Epoch: 8 TRAIN -(CACR) [1/8/1] >> total_loss: 7.6352  Mult_acc_7: 0.1986  Mult_acc_5: 0.1986  Acc_2: 0.5898  F1_score: 0.4768  Corr: 0.7106  MAE: 1.2042 
+2025-10-17 17:31:05,959 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.2882  Mult_acc_5: 0.2882  Acc_2: 0.7917  F1_score: 0.7856  Corr: 0.7046  MAE: 1.2374  Loss: 1.2388 
+2025-10-17 17:31:12,714 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.2085  Mult_acc_5: 0.2085  Acc_2: 0.7607  F1_score: 0.7601  Corr: 0.7399  MAE: 1.2832  Loss: 1.2843 
+2025-10-17 17:31:42,505 - MMSA [INFO] - >> Epoch: 9 TRAIN -(CACR) [1/9/1] >> total_loss: 7.2085  Mult_acc_7: 0.2204  Mult_acc_5: 0.2204  Acc_2: 0.6816  F1_score: 0.6374  Corr: 0.7800  MAE: 1.1578 
+2025-10-17 17:31:45,607 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.2707  Mult_acc_5: 0.2707  Acc_2: 0.8472  F1_score: 0.8479  Corr: 0.6935  MAE: 1.2222  Loss: 1.2428 
+2025-10-17 17:31:52,393 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.2157  Mult_acc_5: 0.2157  Acc_2: 0.8476  F1_score: 0.8469  Corr: 0.7461  MAE: 1.2451  Loss: 1.2392 
+2025-10-17 17:32:21,779 - MMSA [INFO] - >> Epoch: 10 TRAIN -(CACR) [2/10/1] >> total_loss: 6.8494  Mult_acc_7: 0.2399  Mult_acc_5: 0.2399  Acc_2: 0.7197  F1_score: 0.6926  Corr: 0.8082  MAE: 1.1298 
+2025-10-17 17:32:25,505 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.2882  Mult_acc_5: 0.2882  Acc_2: 0.8333  F1_score: 0.8321  Corr: 0.7260  MAE: 1.1716  Loss: 1.1744 
+2025-10-17 17:32:33,192 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.2289  Mult_acc_5: 0.2289  Acc_2: 0.8369  F1_score: 0.8378  Corr: 0.7699  MAE: 1.2110  Loss: 1.2104 
+2025-10-17 17:33:02,923 - MMSA [INFO] - >> Epoch: 11 TRAIN -(CACR) [1/11/1] >> total_loss: 6.706  Mult_acc_7: 0.2765  Mult_acc_5: 0.2765  Acc_2: 0.7482  F1_score: 0.7263  Corr: 0.8405  MAE: 1.0892 
+2025-10-17 17:33:06,207 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.2838  Mult_acc_5: 0.2838  Acc_2: 0.8380  F1_score: 0.8366  Corr: 0.7383  MAE: 1.1370  Loss: 1.1561 
+2025-10-17 17:33:12,905 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.2347  Mult_acc_5: 0.2347  Acc_2: 0.8308  F1_score: 0.8318  Corr: 0.7770  MAE: 1.1766  Loss: 1.1773 
+2025-10-17 17:33:42,015 - MMSA [INFO] - >> Epoch: 12 TRAIN -(CACR) [1/12/1] >> total_loss: 6.383  Mult_acc_7: 0.2905  Mult_acc_5: 0.2905  Acc_2: 0.8050  F1_score: 0.7950  Corr: 0.8583  MAE: 1.0502 
+2025-10-17 17:33:45,309 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.2795  Mult_acc_5: 0.2795  Acc_2: 0.8333  F1_score: 0.8337  Corr: 0.7338  MAE: 1.1133  Loss: 1.0892 
+2025-10-17 17:33:51,993 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.2216  Mult_acc_5: 0.2216  Acc_2: 0.8628  F1_score: 0.8619  Corr: 0.7709  MAE: 1.1322  Loss: 1.1293 
+2025-10-17 17:34:21,403 - MMSA [INFO] - >> Epoch: 13 TRAIN -(CACR) [1/13/1] >> total_loss: 6.2227  Mult_acc_7: 0.2819  Mult_acc_5: 0.2819  Acc_2: 0.8781  F1_score: 0.8768  Corr: 0.8551  MAE: 1.0146 
+2025-10-17 17:34:24,508 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.2751  Mult_acc_5: 0.2751  Acc_2: 0.8426  F1_score: 0.8424  Corr: 0.7427  MAE: 1.0714  Loss: 1.0614 
+2025-10-17 17:34:31,201 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.2318  Mult_acc_5: 0.2318  Acc_2: 0.8659  F1_score: 0.8658  Corr: 0.7779  MAE: 1.0912  Loss: 1.0891 
+2025-10-17 17:35:00,531 - MMSA [INFO] - >> Epoch: 14 TRAIN -(CACR) [1/14/1] >> total_loss: 5.9116  Mult_acc_7: 0.3123  Mult_acc_5: 0.3123  Acc_2: 0.8887  F1_score: 0.8873  Corr: 0.8882  MAE: 0.9631 
+2025-10-17 17:35:03,601 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.2882  Mult_acc_5: 0.2882  Acc_2: 0.8333  F1_score: 0.8318  Corr: 0.7573  MAE: 1.0312  Loss: 1.0435 
+2025-10-17 17:35:10,411 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.2274  Mult_acc_5: 0.2274  Acc_2: 0.8308  F1_score: 0.8318  Corr: 0.7809  MAE: 1.0734  Loss: 1.0721 
+2025-10-17 17:35:40,123 - MMSA [INFO] - >> Epoch: 15 TRAIN -(CACR) [1/15/1] >> total_loss: 5.6005  Mult_acc_7: 0.3123  Mult_acc_5: 0.3123  Acc_2: 0.8993  F1_score: 0.8978  Corr: 0.8905  MAE: 0.9178 
+2025-10-17 17:35:43,209 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.2969  Mult_acc_5: 0.2969  Acc_2: 0.8426  F1_score: 0.8428  Corr: 0.7509  MAE: 1.0034  Loss: 1.0318 
+2025-10-17 17:35:49,813 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.2697  Mult_acc_5: 0.2697  Acc_2: 0.8582  F1_score: 0.8578  Corr: 0.7784  MAE: 1.0126  Loss: 1.0121 
+2025-10-17 17:36:19,320 - MMSA [INFO] - >> Epoch: 16 TRAIN -(CACR) [1/16/1] >> total_loss: 5.4165  Mult_acc_7: 0.3061  Mult_acc_5: 0.3061  Acc_2: 0.9318  F1_score: 0.9315  Corr: 0.9036  MAE: 0.8756 
+2025-10-17 17:36:22,496 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.3231  Mult_acc_5: 0.3231  Acc_2: 0.8472  F1_score: 0.8471  Corr: 0.7574  MAE: 0.9528  Loss: 0.9634 
+2025-10-17 17:36:29,305 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.3134  Mult_acc_5: 0.3134  Acc_2: 0.8460  F1_score: 0.8461  Corr: 0.7819  MAE: 0.9702  Loss: 0.9687 
+2025-10-17 17:36:59,024 - MMSA [INFO] - >> Epoch: 17 TRAIN -(CACR) [1/17/1] >> total_loss: 5.0777  Mult_acc_7: 0.3217  Mult_acc_5: 0.3217  Acc_2: 0.9415  F1_score: 0.9412  Corr: 0.9091  MAE: 0.8038 
+2025-10-17 17:37:02,403 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.3144  Mult_acc_5: 0.3144  Acc_2: 0.8472  F1_score: 0.8469  Corr: 0.7582  MAE: 0.9076  Loss: 0.8960 
+2025-10-17 17:37:09,110 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.3149  Mult_acc_5: 0.3149  Acc_2: 0.8506  F1_score: 0.8509  Corr: 0.7831  MAE: 0.9210  Loss: 0.9217 
+2025-10-17 17:37:38,941 - MMSA [INFO] - >> Epoch: 18 TRAIN -(CACR) [1/18/1] >> total_loss: 4.7445  Mult_acc_7: 0.3489  Mult_acc_5: 0.3489  Acc_2: 0.9537  F1_score: 0.9536  Corr: 0.9193  MAE: 0.7355 
+2025-10-17 17:37:42,200 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.3362  Mult_acc_5: 0.3843  Acc_2: 0.8380  F1_score: 0.8386  Corr: 0.7534  MAE: 0.8898  Loss: 0.9110 
+2025-10-17 17:37:49,402 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.3819  Mult_acc_5: 0.4009  Acc_2: 0.8659  F1_score: 0.8642  Corr: 0.7836  MAE: 0.8504  Loss: 0.8517 
+2025-10-17 17:38:18,532 - MMSA [INFO] - >> Epoch: 19 TRAIN -(CACR) [2/19/1] >> total_loss: 4.5162  Mult_acc_7: 0.3871  Mult_acc_5: 0.3886  Acc_2: 0.9602  F1_score: 0.9602  Corr: 0.9278  MAE: 0.6711 
+2025-10-17 17:38:21,808 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.3668  Mult_acc_5: 0.4454  Acc_2: 0.8380  F1_score: 0.8384  Corr: 0.7591  MAE: 0.8478  Loss: 0.8340 
+2025-10-17 17:38:28,698 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.3994  Mult_acc_5: 0.4257  Acc_2: 0.8704  F1_score: 0.8696  Corr: 0.7871  MAE: 0.8093  Loss: 0.8107 
+2025-10-17 17:38:58,442 - MMSA [INFO] - >> Epoch: 20 TRAIN -(CACR) [1/20/1] >> total_loss: 4.2621  Mult_acc_7: 0.4595  Mult_acc_5: 0.4634  Acc_2: 0.9667  F1_score: 0.9667  Corr: 0.9351  MAE: 0.5937 
+2025-10-17 17:39:01,615 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.3843  Mult_acc_5: 0.4629  Acc_2: 0.8380  F1_score: 0.8384  Corr: 0.7593  MAE: 0.8097  Loss: 0.8062 
+2025-10-17 17:39:08,501 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.3950  Mult_acc_5: 0.4213  Acc_2: 0.8674  F1_score: 0.8664  Corr: 0.7824  MAE: 0.7750  Loss: 0.7738 
+2025-10-17 17:39:38,407 - MMSA [INFO] - >> Epoch: 21 TRAIN -(CACR) [1/21/1] >> total_loss: 4.0097  Mult_acc_7: 0.5125  Mult_acc_5: 0.5319  Acc_2: 0.9659  F1_score: 0.9659  Corr: 0.9398  MAE: 0.5196 
+2025-10-17 17:39:41,501 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.3974  Mult_acc_5: 0.4760  Acc_2: 0.8426  F1_score: 0.8430  Corr: 0.7664  MAE: 0.7803  Loss: 0.7598 
+2025-10-17 17:39:48,315 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.3907  Mult_acc_5: 0.4169  Acc_2: 0.8674  F1_score: 0.8666  Corr: 0.7853  MAE: 0.7550  Loss: 0.7493 
+2025-10-17 17:40:18,588 - MMSA [INFO] - >> Epoch: 22 TRAIN -(CACR) [1/22/1] >> total_loss: 3.8285  Mult_acc_7: 0.5903  Mult_acc_5: 0.6207  Acc_2: 0.9716  F1_score: 0.9716  Corr: 0.9505  MAE: 0.4536 
+2025-10-17 17:40:21,801 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.4279  Mult_acc_5: 0.5371  Acc_2: 0.8380  F1_score: 0.8387  Corr: 0.7700  MAE: 0.7743  Loss: 0.7447 
+2025-10-17 17:40:29,092 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.4796  Mult_acc_5: 0.5525  Acc_2: 0.8735  F1_score: 0.8722  Corr: 0.7861  MAE: 0.7405  Loss: 0.7395 
+2025-10-17 17:40:59,001 - MMSA [INFO] - >> Epoch: 23 TRAIN -(CACR) [1/23/1] >> total_loss: 3.5445  Mult_acc_7: 0.6028  Mult_acc_5: 0.6340  Acc_2: 0.9659  F1_score: 0.9659  Corr: 0.9470  MAE: 0.4009 
+2025-10-17 17:41:02,208 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.4323  Mult_acc_5: 0.5502  Acc_2: 0.8287  F1_score: 0.8283  Corr: 0.7743  MAE: 0.7880  Loss: 0.8000 
+2025-10-17 17:41:09,516 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.4461  Mult_acc_5: 0.5321  Acc_2: 0.8598  F1_score: 0.8596  Corr: 0.7900  MAE: 0.7709  Loss: 0.7711 
+2025-10-17 17:41:39,482 - MMSA [INFO] - >> Epoch: 24 TRAIN -(CACR) [2/24/1] >> total_loss: 3.4482  Mult_acc_7: 0.6534  Mult_acc_5: 0.6947  Acc_2: 0.9740  F1_score: 0.9740  Corr: 0.9551  MAE: 0.3604 
+2025-10-17 17:41:42,999 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.3930  Mult_acc_5: 0.5109  Acc_2: 0.8657  F1_score: 0.8663  Corr: 0.7798  MAE: 0.7959  Loss: 0.7921 
+2025-10-17 17:41:50,208 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.4708  Mult_acc_5: 0.5569  Acc_2: 0.8628  F1_score: 0.8608  Corr: 0.7952  MAE: 0.7415  Loss: 0.7458 
+2025-10-17 17:42:19,445 - MMSA [INFO] - >> Epoch: 25 TRAIN -(CACR) [3/25/1] >> total_loss: 3.3685  Mult_acc_7: 0.6877  Mult_acc_5: 0.7368  Acc_2: 0.9594  F1_score: 0.9595  Corr: 0.9585  MAE: 0.3412 
+2025-10-17 17:42:22,499 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.3930  Mult_acc_5: 0.5284  Acc_2: 0.8380  F1_score: 0.8370  Corr: 0.7729  MAE: 0.8808  Loss: 0.8846 
+2025-10-17 17:42:29,799 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.3863  Mult_acc_5: 0.5262  Acc_2: 0.8628  F1_score: 0.8630  Corr: 0.7932  MAE: 0.8392  Loss: 0.8423 
+2025-10-17 17:42:59,533 - MMSA [INFO] - >> Epoch: 26 TRAIN -(CACR) [4/26/1] >> total_loss: 3.2813  Mult_acc_7: 0.6970  Mult_acc_5: 0.7539  Acc_2: 0.9756  F1_score: 0.9756  Corr: 0.9579  MAE: 0.3397 
+2025-10-17 17:43:02,607 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.3624  Mult_acc_5: 0.4934  Acc_2: 0.8472  F1_score: 0.8478  Corr: 0.7791  MAE: 0.8522  Loss: 0.8470 
+2025-10-17 17:43:09,614 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.4227  Mult_acc_5: 0.5408  Acc_2: 0.8704  F1_score: 0.8687  Corr: 0.7993  MAE: 0.7939  Loss: 0.7962 
+2025-10-17 17:43:38,121 - MMSA [INFO] - >> Epoch: 27 TRAIN -(CACR) [5/27/1] >> total_loss: 3.1818  Mult_acc_7: 0.7048  Mult_acc_5: 0.7625  Acc_2: 0.9618  F1_score: 0.9619  Corr: 0.9655  MAE: 0.3090 
+2025-10-17 17:43:41,456 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.3974  Mult_acc_5: 0.5240  Acc_2: 0.8380  F1_score: 0.8378  Corr: 0.7829  MAE: 0.8479  Loss: 0.8551 
+2025-10-17 17:43:48,395 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.4300  Mult_acc_5: 0.5554  Acc_2: 0.8659  F1_score: 0.8656  Corr: 0.8011  MAE: 0.8106  Loss: 0.8129 
+2025-10-17 17:44:17,313 - MMSA [INFO] - >> Epoch: 28 TRAIN -(CACR) [6/28/1] >> total_loss: 3.1284  Mult_acc_7: 0.7079  Mult_acc_5: 0.7718  Acc_2: 0.9683  F1_score: 0.9683  Corr: 0.9657  MAE: 0.3131 
+2025-10-17 17:44:20,603 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.3799  Mult_acc_5: 0.5197  Acc_2: 0.8380  F1_score: 0.8383  Corr: 0.7833  MAE: 0.8801  Loss: 0.8667 
+2025-10-17 17:44:27,899 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.4038  Mult_acc_5: 0.5437  Acc_2: 0.8735  F1_score: 0.8729  Corr: 0.7979  MAE: 0.8473  Loss: 0.8482 
+2025-10-17 17:44:56,825 - MMSA [INFO] - >> Epoch: 29 TRAIN -(CACR) [7/29/1] >> total_loss: 3.0488  Mult_acc_7: 0.7079  Mult_acc_5: 0.7741  Acc_2: 0.9724  F1_score: 0.9724  Corr: 0.9656  MAE: 0.3135 
+2025-10-17 17:45:00,197 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.4410  Mult_acc_5: 0.5590  Acc_2: 0.8380  F1_score: 0.8376  Corr: 0.7913  MAE: 0.8028  Loss: 0.8044 
+2025-10-17 17:45:07,302 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.4213  Mult_acc_5: 0.5466  Acc_2: 0.8552  F1_score: 0.8556  Corr: 0.7980  MAE: 0.8132  Loss: 0.8140 
+2025-10-17 17:45:36,622 - MMSA [INFO] - >> Epoch: 30 TRAIN -(CACR) [8/30/1] >> total_loss: 2.9827  Mult_acc_7: 0.7399  Mult_acc_5: 0.7928  Acc_2: 0.9683  F1_score: 0.9683  Corr: 0.9704  MAE: 0.2826 
+2025-10-17 17:45:39,705 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.4017  Mult_acc_5: 0.5240  Acc_2: 0.8472  F1_score: 0.8475  Corr: 0.7921  MAE: 0.7871  Loss: 0.8042 
+2025-10-17 17:45:48,617 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.4461  Mult_acc_5: 0.5539  Acc_2: 0.8643  F1_score: 0.8635  Corr: 0.8007  MAE: 0.7767  Loss: 0.7775 
+2025-10-17 17:46:18,138 - MMSA [INFO] - >> Epoch: 31 TRAIN -(CACR) [9/31/1] >> total_loss: 2.9006  Mult_acc_7: 0.7344  Mult_acc_5: 0.7874  Acc_2: 0.9683  F1_score: 0.9683  Corr: 0.9710  MAE: 0.2835 
+2025-10-17 17:46:21,306 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.4105  Mult_acc_5: 0.5240  Acc_2: 0.8519  F1_score: 0.8520  Corr: 0.7897  MAE: 0.8223  Loss: 0.8162 
+2025-10-17 17:46:28,004 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.4184  Mult_acc_5: 0.5408  Acc_2: 0.8613  F1_score: 0.8608  Corr: 0.7982  MAE: 0.8116  Loss: 0.8119 
+2025-10-17 17:46:57,612 - MMSA [INFO] - >> Epoch: 32 TRAIN -(CACR) [10/32/1] >> total_loss: 2.8144  Mult_acc_7: 0.7461  Mult_acc_5: 0.8014  Acc_2: 0.9724  F1_score: 0.9724  Corr: 0.9713  MAE: 0.2814 
+2025-10-17 17:47:00,855 - MMSA [INFO] - VAL-(CACR) >>  Mult_acc_7: 0.4236  Mult_acc_5: 0.5328  Acc_2: 0.8519  F1_score: 0.8519  Corr: 0.7939  MAE: 0.7850  Loss: 0.7975 
+2025-10-17 17:47:08,102 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.4198  Mult_acc_5: 0.5350  Acc_2: 0.8674  F1_score: 0.8676  Corr: 0.7993  MAE: 0.7918  Loss: 0.7952 
+2025-10-17 17:47:15,695 - MMSA [INFO] - TEST-(CACR) >>  Mult_acc_7: 0.4869  Mult_acc_5: 0.5598  Acc_2: 0.8704  F1_score: 0.8690  Corr: 0.7860  MAE: 0.7404  Loss: 0.7103
+2025-10-17 17:47:16,878 - MMSA [INFO] - Results saved to result/normal/mosi.csv.
